@@ -23,12 +23,15 @@
     粘贴到模板文档对应位置
     复制到新文档
     好了，可以出报告了
-#渗透模板
+# 渗透模板
 ![image](https://user-images.githubusercontent.com/96420060/179387550-4ed2491b-1ccd-4849-8387-2d9e57148f6d.png)
 
 # 运行截图
 
 ![image](https://user-images.githubusercontent.com/96420060/179387411-f5576c0d-8fa1-40be-ad82-8bedb0a9932b.png)
+如果执行报错内容为ModuleNotFoundError: No module named 'requests'，执行pip install console安装该模块即可
+![图片](https://user-images.githubusercontent.com/74171727/188526880-0a1a1f62-3b9a-4d2a-9c2b-a2cbe387ac34.png)
+
 
 扫描结果
 ![image](https://user-images.githubusercontent.com/96420060/179387420-0bc4d65c-5d74-4ea4-a476-23b6409c8c48.png)
